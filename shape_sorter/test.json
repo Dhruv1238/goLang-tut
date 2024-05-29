@@ -1,0 +1,39 @@
+{
+    "rectangles": [
+    {
+    "length": 10.0,
+    "breadth": 20.0,
+    "color": "red"
+    },
+    {
+    "length": 20.0,
+    "breadth": 30.0,
+    "color": "blue"
+    },
+    {
+    "length": 20.0,
+    "breadth": 30.0,
+    "color": "green"
+    },
+    {
+    "length": 5.0,
+    "breadth": 15.0,
+    "color": "green"
+    }
+    ],
+    "circles": [
+    {
+    "radius": 20.0,
+    "color": "red"
+    },
+    {
+    "radius": 15.0,
+    "color": "blue"
+    },
+    {
+    "radius": 30.0,
+    "color": "red"
+    }
+    ]
+   }
+   
